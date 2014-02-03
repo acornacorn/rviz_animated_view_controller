@@ -39,8 +39,8 @@
 
 #include "view_controller_msgs/CameraPlacement.h"
 
-#include <OGRE/OgreVector3.h>
-#include <OGRE/OgreQuaternion.h>
+#include <OgreVector3.h>
+#include <OgreQuaternion.h>
 
 namespace rviz {
   class SceneNode;
